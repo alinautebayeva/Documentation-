@@ -1,4 +1,4 @@
-# Software Requirement Sepicfication для продукта MeetRoom
+# Software Requirement Specification для продукта MeetRoom
 
 ## 1. Введение
 ### 1.1 Цель документа
